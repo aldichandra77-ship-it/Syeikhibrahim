@@ -1,6 +1,6 @@
 // ===== Silsilah Keturunan Syaikh Ibrahim =====
-const KODE_ADMIN="Aldi@Syaikh2026!#";
-const KODE_KELUARGA="";
+const KODE_ADMIN="Aldidanretno77";
+const KODE_KELUARGA="123456";
 const FOTO_FOLDER_ID="GANTI_DENGAN_FOLDER_ID";
 
 const H=["id","json","nama","orang_tua_id","status","domisili","pasangan","lahir","wafat","catatan","menunggu_persetujuan"];
